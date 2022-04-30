@@ -1,4 +1,4 @@
-# CodersCamp2021 - Projekt Node
+# CodersCamp2021 - Projekt Node: SERVER
 
 Trzeci projekt. Tworzenie bazy danych.
 
